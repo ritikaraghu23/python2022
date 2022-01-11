@@ -1,3 +1,4 @@
-a="ritika raghuvanshi"
-a.upper()
+a="RItika RaghuVanshi"
+a.lower()
+
 
