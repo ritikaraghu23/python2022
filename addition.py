@@ -1,5 +1,6 @@
 a=5
 b=5
-c=a+b
-print(c)
+c=5
+d=a+b
+print(d)
 
