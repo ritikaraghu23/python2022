@@ -1,3 +1,4 @@
 a="python"
-a.title()
+a.replace('o','oo')
+
 
