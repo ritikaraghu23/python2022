@@ -1,0 +1,3 @@
+a="python"
+a.title()
+
